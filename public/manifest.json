@@ -1,0 +1,36 @@
+{
+    "short_name": "AS Associate",
+    "theme_color": "#000000",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "./index.html",
+    "icon":[
+        {
+         "src":"maskable_icon.png",
+         "sizes":"335*335",
+         "type":"image/png",
+         "purpose":"any maskable"
+        },
+       {
+        "src":"logo192.png",
+        "sizes":"192*192",
+        "type":"image/png"
+       },
+       {
+        "src":"logo256.png",
+        "sizes":"256*256",
+        "type":"image/png"
+       },
+       {
+        "src":"logo384.png",
+        "sizes":"384*384",
+        "type":"image/png"
+       },
+       {
+        "src":"logo512.png",
+        "sizes":"512*512",
+        "type":"image/png"
+       } 
+    ]
+  }

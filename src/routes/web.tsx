@@ -1,0 +1,15 @@
+export const webRoutes = {
+  home: '/',
+  login: '/login',
+  logout: '/logout',
+  dashboard: '/dashboard',
+  users: '/users',
+  about: '/about',
+  companies: '/companies',
+  categories: '/categories',
+  products: '/products',
+  units: '/units',
+  brands: '/brands',
+  quotations: '/quotations',
+  performaInvoice: '/performa-invoice',
+};
